@@ -178,6 +178,7 @@ class _homeState extends State<home> {
       }, child: Text("_creatRewardedAd")),
     Spacer(),
     Container(
+
     alignment: Alignment.center,
     child: adWidget,
     width: myBanner.size.width.toDouble(),
